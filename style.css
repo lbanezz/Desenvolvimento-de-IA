@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .chat-container {
+    height: 300px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  input[type="text"], button {
+    padding: 8px;
+    margin-top: 10px;
+  }
+  
+  .IA-message {
+    background-color: #d3e0ff;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 5px;
+    align-self: flex-end;
+  }
+  
