@@ -34,10 +34,10 @@ function generateResponse(question) {
     answer = 'Gatos são animais independentes e adoram dormir!';
   } else {
     answer = 'Desculpe, não sei muito sobre isso. Pergunte sobre gatos ou cachorros!';
+    if (question.toLowerCase().includes('Jesus')) {
+      answer = 'Historicamente, Jesus Cristo foi um profeta judeu que viveu na Palestina no século I d.C. Durante sua vida, ele trouxe uma mensagem de libertação a Israel, prometendo a formação de um reino de Deus na Terra. Essa mensagem teria o levado a ser crucificado pelos romanos, os dominadores da Palestina na época.';
+    }
   }
-
-  if (question.toLowerCase().includes('quem foi Jesus')) {
-    answer = 'Historicamente, Jesus Cristo foi um profeta judeu que viveu na Palestina no século I d.C. Durante sua vida, ele trouxe uma mensagem de libertação a Israel, prometendo a formação de um reino de Deus na Terra. Essa mensagem teria o levado a ser crucificado pelos romanos, os dominadores da Palestina na época.';
-
+  
   displayBotMessage(answer);
 }
