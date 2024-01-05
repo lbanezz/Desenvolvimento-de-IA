@@ -1,16 +1,17 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <title>IA para tirar dúvidas</title>
-  <link rel="stylesheet" href="styles.css">
+  <title>Chatbot IA</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-  <div class="chat-container" id="chat-container">
-    <!-- Aqui é onde as mensagens do chat serão exibidas -->
+  <div class="chat-container">
+    <div class="chat-box" id="chat-box"></div>
+    <input type="text" id="user-input" placeholder="Digite sua pergunta...">
+    <button onclick="send()">Enviar</button>
   </div>
-  <input type="text" id="user-input" placeholder="Faça uma pergunta...">
-  <button onclick="enviarPergunta()">Perguntar</button>
+
   <script src="script.js"></script>
 </body>
 </html>
+

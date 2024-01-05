@@ -1,26 +1,36 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-  
-  .chat-container {
-    height: 300px;
-    overflow-y: scroll;
-    border: 1px solid #ccc;
-    padding: 10px;
-  }
-  
-  input[type="text"], button {
-    padding: 8px;
-    margin-top: 10px;
-  }
-  
-  .IA-message {
-    background-color: #d3e0ff;
-    padding: 8px;
-    margin: 5px;
-    border-radius: 5px;
-    align-self: flex-end;
-  }
-  
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.chat-container {
+  width: 400px;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.chat-box {
+  height: 300px;
+  overflow-y: scroll;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#user-input {
+  width: calc(100% - 70px);
+  padding: 8px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px 15px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
