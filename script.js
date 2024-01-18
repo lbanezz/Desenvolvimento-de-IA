@@ -41,12 +41,12 @@ function generateResponse(question) {
     answer = 'Historicamente, Jesus Cristo foi um profeta judeu que viveu na Palestina no século I d.C. Durante sua vida, ele trouxe uma mensagem de libertação a Israel, prometendo a formação de um reino de Deus na Terra. Essa mensagem teria o levado a ser crucificado pelos romanos, os dominadores da Palestina na época.';
 
   } else if (question.toLowerCase().includes('estudo bibiclo')) {
-    answer = 'se você deseja um estudo bibiclo via WhatsApp entre em contato com o número +55 12 98200-0062 desejo a você um bom estudo! ';
+    answer = 'se você deseja um estudo bibiclo via WhatsApp entre em contato com o número +55 12 98200-0062 desejo a você um bom estudo!';
 
   } else if (question.toLowerCase().includes('livros que voce recomenda para o lar')) {
     answer = 'Fundamentos do Lar Cristão - Ellen White';
 
-  } else if (question.toLowerCase().includes('Quais os livros da Bíblia que tem apenas 1 capítulo')) {
+  } else if (question.toLowerCase().includes('quais os livros da biblia que tem apenas 1 capitulo')) {
     answer = 'Obadias, Filemom, II João, III João e Judas.';
 
   } else {
