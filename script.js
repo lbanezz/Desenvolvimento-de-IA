@@ -43,9 +43,11 @@ function generateResponse(question) {
   } else if (question.toLowerCase().includes('estudo bibiclo')) {
     answer = 'se você deseja um estudo bibiclo via WhatsApp entre em contato com o número +55 12 98200-0062 desejo a você um bom estudo! ';
 
-  } else if (question.toLowerCase().includes('livros que voce recomenda')) {
-    answer = 'se você deseja um estudo bibiclo via WhatsApp entre em contato com o número +55 12 98200-0062 desejo a você um bom estudo! ';
+  } else if (question.toLowerCase().includes('livros que voce recomenda para o lar')) {
+    answer = 'Fundamentos do Lar Cristão - Ellen White';
 
+  } else if (question.toLowerCase().includes('Quais os livros da Bíblia que tem apenas 1 capítulo')) {
+    answer = 'Obadias, Filemom, II João, III João e Judas.';
 
   } else {
     answer = 'Desculpe, não encontrei um versículo específico para essa pergunta. Posso te ajudar com algo mais?';

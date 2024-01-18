@@ -3,8 +3,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #eeeeee;
-  border-radius: 20%;
+  background-color: #eeeeee
 }
 
 /* configuração do chat */
@@ -14,6 +13,7 @@ body {
   border: 1px solid #ccc;
   padding: 20px;
   background-color: #fff;
+  border-radius: 30px;
 }
 
 .chat-box {
@@ -30,7 +30,7 @@ body {
   margin-right: 10px;
 }
 
-/* configuração do botão*/
+/* configuração do botão Enviar*/
 button {
   padding: 8px 20px;
   background-color: #007bff;
