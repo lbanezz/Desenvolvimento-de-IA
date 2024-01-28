@@ -11,7 +11,6 @@ Más estou estudando para que isso se torna realidade isso apenas uma versão Be
 Segue a lista das perguntas que pode ser realizada:
 
 <ol>
-<li>
 <li>fé</li>
 <li>Deus</li>
 <li>estudo biblico</li>
