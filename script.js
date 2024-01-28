@@ -13,7 +13,7 @@ function send() {
 function displayUserMessage(message) {
   const userDiv = document.createElement('div');
   userDiv.className = 'message user';
-  userDiv.innerHTML = `<strong>Você:</strong> ${message}`;
+  userDiv.innerHTML = `<strong>Pergunta:</strong> ${message}`;
   chatBox.appendChild(userDiv);
   chatBox.scrollTop = chatBox.scrollHeight;
 }
