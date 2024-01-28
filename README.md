@@ -12,15 +12,14 @@ Segue a lista das perguntas que pode ser realizada:
 
 <ol>
 <li>
-1 - fé
-2 - Deus
-3 - estudo biblico
-4 - livros que voce recomenda para o lar
-5 - quais os livros da biblia que tem apenas 1 capitulo
-6 - quais os livros da biblia que terminam com um ponto de interrogação ?
-7 - qual o menor livro da biblia
-8 - por que o rei Davi não pode construir um templo para Deus
-9 - ual e a unica mulher cuja a idade e mencionada na biblia
+fé
+Deus
+estudo biblico
+livros que voce recomenda para o larquais os livros da biblia que tem apenas 1 capitulo
+quais os livros da biblia que terminam com um ponto de interrogação ?
+qual o menor livro da biblia
+ por que o rei Davi não pode construir um templo para Deus
+ual e a unica mulher cuja a idade e mencionada na biblia
 </li>
 </ol>
 
