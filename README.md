@@ -12,15 +12,14 @@ Segue a lista das perguntas que pode ser realizada:
 
 <ol>
 <li>
-fé
-Deus
-estudo biblico
-livros que voce recomenda para o larquais os livros da biblia que tem apenas 1 capitulo
-quais os livros da biblia que terminam com um ponto de interrogação ?
-qual o menor livro da biblia
- por que o rei Davi não pode construir um templo para Deus
-ual e a unica mulher cuja a idade e mencionada na biblia
-</li>
+<li>fé</li>
+<li>Deus</li>
+<li>estudo biblico</li>
+<li>livros que voce recomenda para o larquais os livros da biblia que tem apenas 1 capitulo</li>
+<li>quais os livros da biblia que terminam com um ponto de interrogação ?</li>
+<li>qual o menor livro da biblia</li>
+<li>por que o rei Davi não pode construir um templo para Deus</li>
+<li>qual e a unica mulher cuja a idade e mencionada na biblia</li>
 </ol>
 
 Observação: não adintar copiar a pergunta e colar no campo de "pergunta" no campo se vai ter qu digitar para IA pode funcionar.
