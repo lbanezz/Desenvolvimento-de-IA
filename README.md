@@ -21,7 +21,7 @@ Segue a lista das perguntas que pode ser realizada:
 <li>qual e a unica mulher cuja a idade e mencionada na biblia</li>
 </ol>
 
-Observação: não adintar copiar a pergunta e colar no campo de "pergunta" no campo se vai ter qu digitar para IA pode funcionar.
+Observação: não adianta copiar a pergunta e colar no campo de "pergunta" nesse caso se vai ter que digitar a pergunta para IA poder responder.
 
 E disse-lhes: ide por todo mundo, pregai o evangelho a toda criatura. Marcos 16:15
  
