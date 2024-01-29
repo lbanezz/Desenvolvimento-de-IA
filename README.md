@@ -6,7 +6,7 @@
 
 <p> O projeto foi criado para pregação do evangelho basta você fazer uma pergunta em seguida IA irá te responder, durante o processo da criação da inteligência artificial não foi possivel adicionar uma API para responder todos os tipos de perguntas.
 
-Más estou estudando para que isso se torna realidade isso apenas uma versão Beta do ChatBot. Eu espero de coração que vocês gostam. </p>
+Más estou estudando para que isso se torna realidade isso apenas uma versão Beta do ChatBot. Eu espero de coração que vocês gostem. </p>
 
 Segue a lista das perguntas que pode ser realizada:
 
