@@ -22,9 +22,9 @@ body {
 .chat-box {
   height: 500px;
   overflow-y: scroll;
-  border: 1px solid #ccc;
-  padding: 10px;
-  margin-bottom: 10px;
+  border: 1rem solid #ccc;
+  padding: 1.0rem;
+  margin-bottom: 1.0rem;
 }
 
 #user-input {
