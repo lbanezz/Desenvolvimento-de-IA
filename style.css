@@ -8,22 +8,22 @@ body {
 
 /* configuração do chat container */
 .chat-container {
-  width: 700px;
-  margin: 60px auto;
-  border: 3px solid #ccc;
-  padding: 30px;
+  width: 60rem;
+  margin: 6.0rem auto;
+  border: 0.3rem solid #ccc;
+  padding: 2.0rem;
   background-color: #ffffff;
-  border-radius: 30px;
+  border-radius: 3rem;
   align-items: center;
   font-size: 1.1rem;
 }
 
 /* configuração do chat */
 .chat-box {
-  height: 500px;
+  height: 30rem;
   overflow-y: scroll;
-  border: 1rem solid #ccc;
-  padding: 1.0rem;
+  border: 0.5rem solid #ccc;
+  padding: 2rem;
   margin-bottom: 1.0rem;
 }
 
@@ -43,20 +43,22 @@ button {
 }
 
 header {
-  height: 15px;
+  height: 1.5rem;
   text-align: center;
-  padding: 15px;
+  padding: 1.5rem;
   color: #313030;
 }
 
 p {
-  height: 10px;
+  height: 3.0rem;
   text-align: center;
   padding: 15;
+  font-size: 1.5rem;
 }
 
 footer {
-  height: 40px;
+  height: 5.0rem;
+  width: center;
   text-align: center;
   font-size: 10px;
 }
